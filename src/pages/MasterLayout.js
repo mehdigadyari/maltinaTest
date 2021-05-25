@@ -1,4 +1,4 @@
-import { Container, Grid, Paper } from '@material-ui/core'
+import { Container, Grid } from '@material-ui/core'
 import React, { useEffect, useState } from 'react'
 import useStyles from './MasterLayout.styles'
 import Item from '../components/item'

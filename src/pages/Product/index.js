@@ -21,7 +21,6 @@ export default function Index() {
     <Container maxWidth="lg">
       <Grid className={classes.item} xs={12}>
         <img src={Bitmap} alt="Bitmap" className={classes.image} />
-
         <Typography className={classes.subTitle}>
           vero eaque aliquid doloribus et culpa{' '}
         </Typography>
