@@ -19,7 +19,6 @@ export default function Index() {
   // console.log(data)
   return (
     <Container maxWidth="lg">
-      {/* <Paper>Maltina</Paper> */}
       <Grid className={classes.item} xs={12}>
         <img src={Bitmap} alt="Bitmap" className={classes.image} />
 

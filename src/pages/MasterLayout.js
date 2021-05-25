@@ -19,7 +19,7 @@ export default function MasterLayout() {
   return (
     <div className={classes.root}>
       <Container maxWidth="lg">
-        <Paper>MaltinaTest</Paper>
+        {/* <Paper>MaltinaTest</Paper> */}
         <Grid direction="row" xs={12}>
           <Grid className={classes.itemStyle} item xs={12}>
             {data.map((i) => (
